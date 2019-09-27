@@ -1,0 +1,2 @@
+clear
+parcel index.html
